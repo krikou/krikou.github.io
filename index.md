@@ -9,7 +9,7 @@
       <p><b>GITHUB个人主页地址：https://krikou.github.io</b></p>
     </td>
     <td width="25%">
-      <img src="/DE35A6803081DDE3E493CB7A0FECFC7F.png" width="100%">      % 插入证件照代码
+      <img src="DE35A6803081DDE3E493CB7A0FECFC7F.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
